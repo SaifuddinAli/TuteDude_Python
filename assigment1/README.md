@@ -1,12 +1,12 @@
 TuteDude_Python
-ASSIGNMENT 1: \nModule 2: Basic Python Concepts
+ASSIGNMENT 1: <br>Module 2: Basic Python Concepts
 
 Task 1: Perform Basic Mathematical Operations Problem Statement: Write a Python program that does the following:
 
 Takes two numbers as input from the user.
 Performs the basic mathematical operations on these two numbers: o Addition o Subtraction o Multiplication o Division
 Displays the results of each operation on the screen. Expected Output: The output should include the result of each operation performed, 
-\nfor example:
+for example:
 Enter the first number: 5
 Enter the second number: 10
 
