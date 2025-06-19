@@ -1,7 +1,7 @@
-ASSIGNMENT 5:
-Module 6: Data Structures and Strings in Python
+**ASSIGNMENT 5:**  
+Module 6: Data Structures and Strings in Python  
  
-Task 1: Create a Dictionary of Student Marks
+**Task 1: Create a Dictionary of Student Marks**
 
 Problem Statement: Write a Python program that:
 1.   Creates a dictionary where student names are keys and their marks are values.
@@ -18,7 +18,7 @@ If the student does not exist in the dictionary:
 Enter the student's name: John
 student not found.
  
-Task 2: Demonstrate List Slicing 
+**Task 2: Demonstrate List Slicing**  
 Problem Statement: Write a Python program that:
 1.   Creates a list of numbers from 1 to 10.
 2.   Extracts the first five elements from the list.
@@ -26,6 +26,6 @@ Problem Statement: Write a Python program that:
 4.   Prints both the extracted list and the reversed list
  
 **Expected Output:**  
-Orginal list:  [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-Extracted first five elements:  [1, 2, 3, 4, 5]
+Orginal list:  [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]  
+Extracted first five elements:  [1, 2, 3, 4, 5]  
 Reversed extracted elements:  [5, 4, 3, 2, 1]
