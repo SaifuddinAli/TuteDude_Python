@@ -23,24 +23,17 @@
 
 2\. Appends additional data to the same file.
 
-3\. Reads and displays the final content of the file.
+3\. Reads and displays the final content of the file.  
 
-<br/>**Expected Output:  
-**For example, if the user enters 25, the output should be:  
+**Expected Output:**   
+**For example, if the user enters 25, the output should be:**  
 
-**Submission Instructions:**
+Enter text to write to the file: Hello,Python!  
+Data successfully written to output.txt.  
 
-- Create a **GitHub repository** and upload your Python scripts (.py files).
-- Ensure the repository includes a **README.md** file that describes the functionality of your programs.
-- Add both **Task 1 and Task 2** scripts in the same repository.
-- Submit the **link to your GitHub repository** once uploaded.
+Enter additional text to append: Learni8ng file handling in python.
+Data successfully appended  
 
-**Reference:**
-
-Follow the **Python course - Module 4: Functions & Modules in Python** for additional guidelines and examples.
-
-**Note:**
-
-**Please test your project thoroughly and check all the validations and error handling prior to ensure it works as expected before submission.**
-
-**You can always connect to the mentor using the chat support option for any doubts or queries!**
+Final content of output.txt:  
+Hello,Python!  
+Learning file handling in python.
